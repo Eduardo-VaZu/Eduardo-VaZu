@@ -28,11 +28,10 @@
 
 ## 📈 My GitHub Stats and Activity
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu&theme=algolia" alt="Eduardo-VaZu/"  /></p>
 
-### 💻 Profile Stats
-<h3>Statistical Data :-</h3>
+### 💻 Statistical Data
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-VaZu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
