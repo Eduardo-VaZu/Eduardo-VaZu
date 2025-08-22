@@ -27,29 +27,23 @@
 </span>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu&theme=algolia" alt="Eduardo-VaZu/"  /></p>
 
-## 📊 Github Stats (Expand to View) 
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-VaZu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
 
+<br>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eduardo-VaZu" src="https://github-readme-stats.vercel.app/api?username=Eduardo-VaZu&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-VaZu&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-VaZu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Eduardo-VaZu" /></p>
 
+<br>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Eduardo-VaZu"><img alt="Eduardo-VaZu" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu/&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Eduardo-VaZu/" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-</details>
