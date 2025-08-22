@@ -26,9 +26,12 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </span>
 
+## 📈 My GitHub Stats and Activity
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu&theme=algolia" alt="Eduardo-VaZu/"  /></p>
 
+### 💻 Profile Stats
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-VaZu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
