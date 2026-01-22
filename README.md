@@ -1,65 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hola,%20soy%20Eduardo%20Vargas&fontSize=40&reversal=true&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Eduardo%20Vargas&fontSize=70&reversal=true&animation=fadeIn" width="100%" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Keep%20Coding-Learning-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/Eduardo-VaZu?label=Followers&style=for-the-badge&color=2ecc71" />
+  <img src="https://komarev.com/ghpvc/?username=Eduardo-VaZu&color=dc3545&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Student;Backend+Developer;Java+and+Spring+Boot+Enthusiast;Building+Scalable+Solutions&font=Fira+Code&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Student;Backend+Specialist;Cloud+Architecture+Enthusiast;Full+Stack+Developer+in+Growth&font=Fira+Code&center=true&width=600&height=50&color=A9FEFF">
   </a>
 </div>
 
 ---
 
-### 💫 Sobre mí
+### 🚀 Un poco sobre mí
 
-Soy un estudiante de Ingeniería de Software apasionado por el desarrollo backend y la arquitectura de sistemas. Me enfoco en crear soluciones eficientes, escalables y con código limpio.
+Soy un estudiante de Ingeniería de Software enfocado en el desarrollo de sistemas robustos y escalables. Mi objetivo es transformar ideas complejas en código limpio y eficiente.
 
-- 🔭 **Proyectos actuales:** Sistemas de gestión académica y optimización de APIs.
-- 🌱 **En formación:** Especializándome en **Angular** y **Vue.js** para dominar el stack completo y cloud computing y bases de datos no relacionales.
-- ☁️ **Meta:** AWS Cloud Practitioner & Arquitecturas Microservicios.
+- 🔭 **Enfoque actual:** Optimización de microservicios y APIs de alto rendimiento.
+- 🌱 **Evolucionando en:** **Angular**, **Vue.js** y arquitecturas basadas en eventos.
+- ⚡ **Filosofía:** "El código es poesía cuando la lógica es impecable".
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 💻 Stack Tecnológico
 
-#### **Lenguajes**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" />
+      <br><b>Backend</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=react,angular,vue,ts,js" />
+      <br><b>Frontend</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws" />
+      <br><b>Data & DevOps</b>
+    </td>
+  </tr>
+</table>
 
-#### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
+---
 
-#### **Frontend & Estilos**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-</p>
-
-#### **Estilos**
-<p>
+### 🎨 Diseño y Estilos
+<div align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-VaZu&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
 </p>
 
-#### **Bases de Datos & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu&theme=radical" alt="Streak Stats" />
+</div>
+
+---
+
+### 🤝 Conectemos
+
+<p align="center">
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tu-portafolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=gradient&reversal=true" width="100%" />
+</div>
 ---
 
 ### 📊 Estadísticas de GitHub
