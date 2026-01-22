@@ -1,50 +1,75 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hola,%20soy%20Eduardo%20Vargas&fontSize=40&reversal=true&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center">
-  Hi, I'm Eduardo-VaZu
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Student;Backend+Developer;Java+and+Spring+Boot+Enthusiast;Building+Scalable+Solutions&font=Fira+Code&center=true&width=500&height=50">
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+---
+
+### 💫 Sobre mí
+
+Soy un estudiante de Ingeniería de Software (8vo ciclo) apasionado por el desarrollo backend y la arquitectura de sistemas. Actualmente enfocado en dominar el ecosistema de Java y AWS.
+
+- 🔭 Actualmente trabajando en: **Sistemas de gestión académica.**
+- 🌱 Aprendiendo: **AWS Cloud Practitioner & Arquitecturas Microservicios.**
+- ⚡ Interés: **Optimización de bases de datos y Dockerización.**
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Lenguajes**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</span>
+#### **Frameworks & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
 
-<h4> Frameworks Css </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</span>
+#### **Bases de Datos & Herramientas**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+</p>
 
-## 📈 My GitHub Stats and Activity
+---
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu&theme=algolia" alt="Eduardo-VaZu/"  /></p>
+### 📊 Estadísticas de GitHub
 
-### 💻 Statistical Data
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduardo-VaZu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-VaZu&theme=tokyonight" alt="Streak Stats" />
+</div>
 
-<br>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-VaZu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Eduardo-VaZu" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-VaZu&show_icons=true&theme=tokyonight" alt="Eduardo-VaZu Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-VaZu&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
-<br>
+---
 
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 📫 Contacto
+<p align="left">
+  <a href="https://linkedin.com/in/tu-usuario" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
