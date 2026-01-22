@@ -15,7 +15,7 @@
 Soy un estudiante de Ingeniería de Software apasionado por el desarrollo backend y la arquitectura de sistemas. Me enfoco en crear soluciones eficientes, escalables y con código limpio.
 
 - 🔭 **Proyectos actuales:** Sistemas de gestión académica y optimización de APIs.
-- 🌱 **En formación:** Especializándome en **Angular** y **Vue.js** para dominar el stack completo.
+- 🌱 **En formación:** Especializándome en **Angular** y **Vue.js** para dominar el stack completo y cloud computing y bases de datos no relacionales.
 - ☁️ **Meta:** AWS Cloud Practitioner & Arquitecturas Microservicios.
 
 ---
