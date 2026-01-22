@@ -20,9 +20,9 @@
 
 Soy un estudiante de Ingeniería de Software enfocado en el desarrollo de sistemas robustos y escalables. Mi objetivo es transformar ideas complejas en código limpio y eficiente.
 
-- 🔭 **Enfoque actual:** Optimización de microservicios y APIs de alto rendimiento.
-- 🌱 **Evolucionando en:** **Angular**, **Vue.js** y arquitecturas basadas en eventos.
-- ⚡ **Filosofía:** "El código es poesía cuando la lógica es impecable".
+- 🔭 **Proyectos actuales:** Sistemas de gestión académica y optimización de APIs.
+- 🌱 **En formación:** Especializándome en **Angular** y **Vue.js** para dominar el stack completo y cloud computing y bases de datos no relacionales.
+- ☁️ **Meta:** AWS Cloud Practitioner & Arquitecturas Microservicios.
 
 ---
 
